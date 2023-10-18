@@ -1,4 +1,5 @@
 # Indicators-of-Heart-Disease-2022-UPDATE-
+EXPLORATION DATA ANALYSIS (EDA):
 Data Visualization using Google Colab: Indicators of Heart Disease (2022 UPDATE)
 Content:
 1. Scatter Plot
